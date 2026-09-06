@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Привет, " + name + "! Ты уже взрослый, садись за руль!");
         } else {
             int yearsLeft = 18 - age;
-            System.out.println("Привет, " + name + "! Через " + yearsLeft + " лет ты сможешь водить машину.");
+            System.out.println("Привет, " + name + "! Чериез " + yearsLeft + " лет ты сможешь водить машину.");
         }
 
         scanner.close();
